@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35723.152 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pdf-ua2-sample", "pdf-ua2-sample.csproj", "{342AD302-53F1-4486-95DE-919920442B00}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{342AD302-53F1-4486-95DE-919920442B00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{342AD302-53F1-4486-95DE-919920442B00}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{342AD302-53F1-4486-95DE-919920442B00}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{342AD302-53F1-4486-95DE-919920442B00}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {134259A9-CAB1-4223-9F47-4527C2E5D2ED}
+	EndGlobalSection
+EndGlobal
